@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    runs-on: Debian (Stable)
+    runs-on: ubuntu-lastest
 
     strategy:
       matrix:
